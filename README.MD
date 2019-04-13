@@ -67,12 +67,19 @@
 4. Screenshots:
     
     ![Alt text](https://github.com/CapApple/liri-node-app/blob/master/screenshots/invalid%20input.png)
+    
     ![alt text](https://github.com/CapApple/liri-node-app/blob/master/screenshots/concert-this.png)
+    
     ![alt text](https://github.com/CapApple/liri-node-app/blob/master/screenshots/movie-this.png)
+    
     ![alt text](https://github.com/CapApple/liri-node-app/blob/master/screenshots/movie-this-default.png)
+    
     ![alt text](https://github.com/CapApple/liri-node-app/blob/master/screenshots/spotify-this.png)
+    
     ![alt text](https://github.com/CapApple/liri-node-app/blob/master/screenshots/spotify-this-default.png)
+    
     ![alt text](https://github.com/CapApple/liri-node-app/blob/master/screenshots/do-what-it-says.png)
+    
     ![alt text](https://github.com/CapApple/liri-node-app/blob/master/screenshots/do-what-it-says-2.png)
     
     
