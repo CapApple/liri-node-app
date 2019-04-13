@@ -66,7 +66,7 @@
 
 4. Screenshots:
 
-    ![alt text](https://raw.githubusercontent.com/CapApple/liri-node-app/master/path/to/concert-this.png)
+    ![alt text](https://github.com/CapApple/liri-node-app/blob/master/screenshots/concert-this.png)
     ![Alt text](relative/path/to/screenshots/movie-this.png?raw=true "Title")
     ![Alt text](relative/path/to/screenshots/movie-this-default.png?raw=true "Title")
     ![Alt text](relative/path/to/screenshots/spotify-this.png?raw=true "Title")
