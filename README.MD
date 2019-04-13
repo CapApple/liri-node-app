@@ -66,10 +66,10 @@
 
 4. Screenshots:
 
-    ![Alt text](relative/path/to/screenshots/concert-this?raw=true "Title")
-    ![Alt text](relative/path/to/screenshots/movie-this?raw=true "Title")
-    ![Alt text](relative/path/to/screenshots/movie-this-default?raw=true "Title")
-    ![Alt text](relative/path/to/screenshots/spotify-this?raw=true "Title")
-    ![Alt text](relative/path/to/screenshots/spotify-this-default?raw=true "Title")
-    ![Alt text](relative/path/to/screenshots/do-what-it-says?raw=true "Title")
-    ![Alt text](relative/path/to/screenshots/do-what-it-says-2?raw=true "Title")
+    ![Alt text](relative/path/to/screenshots/concert-this.png?raw=true "Title")
+    ![Alt text](relative/path/to/screenshots/movie-this.png?raw=true "Title")
+    ![Alt text](relative/path/to/screenshots/movie-this-default.png?raw=true "Title")
+    ![Alt text](relative/path/to/screenshots/spotify-this.png?raw=true "Title")
+    ![Alt text](relative/path/to/screenshots/spotify-this-default.png?raw=true "Title")
+    ![Alt text](relative/path/to/screenshots/do-what-it-says.png?raw=true "Title")
+    ![Alt text](relative/path/to/screenshots/do-what-it-says-2.png?raw=true "Title")

@@ -54,9 +54,9 @@ fs.readFile("random.txt", "utf8", function(err,data){
                 music();
             }
 
-            // else{
-            //     console.log("Invalid command. Use the following commands to make inquiry: \n'concert-this'\n'movie-this'\n'spotify-this'");
-            // }
+            else{
+                console.log("Invalid command. Use the following commands to make inquiry: \n'concert-this'\n'movie-this'\n'spotify-this'");
+            }
         }
         
         if(process.argv[2] === "do-what-it-says"){
