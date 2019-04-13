@@ -65,13 +65,14 @@
      * Edit the text in random.txt to test out the feature for movie-this and concert-this.
 
 4. Screenshots:
-
+    
+    ![Alt text](https://github.com/CapApple/liri-node-app/blob/master/screenshots/invalid%20input.png)
     ![alt text](https://github.com/CapApple/liri-node-app/blob/master/screenshots/concert-this.png)
-    ![Alt text](relative/path/to/screenshots/movie-this.png?raw=true "Title")
-    ![Alt text](relative/path/to/screenshots/movie-this-default.png?raw=true "Title")
-    ![Alt text](relative/path/to/screenshots/spotify-this.png?raw=true "Title")
-    ![Alt text](relative/path/to/screenshots/spotify-this-default.png?raw=true "Title")
-    ![Alt text](relative/path/to/screenshots/do-what-it-says.png?raw=true "Title")
-    ![Alt text](relative/path/to/screenshots/do-what-it-says-2.png?raw=true "Title")
+    ![alt text](https://github.com/CapApple/liri-node-app/blob/master/screenshots/movie-this.png)
+    ![alt text](https://github.com/CapApple/liri-node-app/blob/master/screenshots/movie-this-default.png)
+    ![alt text](https://github.com/CapApple/liri-node-app/blob/master/screenshots/spotify-this.png)
+    ![alt text](https://github.com/CapApple/liri-node-app/blob/master/screenshots/spotify-this-default.png)
+    ![alt text](https://github.com/CapApple/liri-node-app/blob/master/screenshots/do-what-it-says.png)
+    ![alt text](https://github.com/CapApple/liri-node-app/blob/master/screenshots/do-what-it-says-2.png)
     
     
